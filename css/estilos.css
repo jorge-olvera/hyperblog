@@ -44,17 +44,12 @@ margin: 0 auto;
 }
 #post
 {
-<<<<<<< HEAD
     background-color: white;
     padding: 1em;
-=======
-    padding: 1em;
-    background: white;
 }
 #footer
 {
     background: #777;
     color: white;
     text-align: center;
->>>>>>> footer
 }
