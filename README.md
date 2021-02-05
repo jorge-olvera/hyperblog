@@ -14,4 +14,5 @@
 - Incluye ejemplos mejorados en Windows, Linux y Mac
 - Disponible para todas las edades lol
 
-> *al terminar este curso, agregaré la imagen del diploma como comprobante de haber acreditado este curso, esperalo muy pronto 😬*
+### Diploma de acreditación de curso:
+![alt text](https://user-images.githubusercontent.com/74226385/107065780-c9076500-67a2-11eb-866c-0e6128696043.png)
