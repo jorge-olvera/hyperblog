@@ -10,5 +10,6 @@
 - Buenas prácticas
 - Comandos básicos y avanzados
 - Preparar un entorno para Git
+- Creado por el increible equipo de Platzi Team
 
 > *al terminar este curso, agregaré la imagen del diploma como comprobante de haber acreditado este curso, esperalo muy pronto 😬*
