@@ -5,14 +5,13 @@
 -- Jorge Olvera ⚔️*
 
 ### **En este curso vemos de todo:**
-- Todos los comandos de Git
-- El flujo de trabajo en Github
-- Buenas prácticas
+- Llevar un control de versiones en mis proyectos con Git
+- Trabajar en Equipos de Forma Colaborativa
+- Instalar Git en mi sistema operativo
+- Aplicar un flujo de trabajo profesional para mis proyectos
+- Trabajar con múltiples entornos de trabajo
 - Comandos básicos y avanzados
-- Preparar un entorno para Git
-- Creado por el increible equipo de Platzi Team
-- Incluye ejemplos mejorados en Windows, Linux y Mac
-- Disponible para todas las edades lol
+- Buenas prácticas
 
 ### Diploma de acreditación de curso:
 ![alt text](https://user-images.githubusercontent.com/74226385/107065780-c9076500-67a2-11eb-866c-0e6128696043.png)
