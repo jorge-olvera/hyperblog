@@ -11,5 +11,7 @@
 - Comandos básicos y avanzados
 - Preparar un entorno para Git
 - Creado por el increible equipo de Platzi Team
+- Incluye ejemplos mejorados en Windows, Linux y Mac
+- Disponible para todas las edades lol
 
 > *al terminar este curso, agregaré la imagen del diploma como comprobante de haber acreditado este curso, esperalo muy pronto 😬*
